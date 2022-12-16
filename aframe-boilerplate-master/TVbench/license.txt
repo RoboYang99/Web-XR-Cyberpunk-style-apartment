@@ -1,0 +1,11 @@
+Model Information:
+* title:	Birch table storage model
+* source:	https://sketchfab.com/3d-models/birch-table-storage-model-83e1553a560c48ce89c225418e8ce04e
+* author:	Thomas Binder (https://sketchfab.com/bindertom61)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Birch table storage model" (https://sketchfab.com/3d-models/birch-table-storage-model-83e1553a560c48ce89c225418e8ce04e) by Thomas Binder (https://sketchfab.com/bindertom61) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

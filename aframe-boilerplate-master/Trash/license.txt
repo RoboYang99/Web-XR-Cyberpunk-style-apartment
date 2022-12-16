@@ -1,0 +1,11 @@
+Model Information:
+* title:	small bundle of trash
+* source:	https://sketchfab.com/3d-models/small-bundle-of-trash-858d9abe95934209a02a5f72f9128628
+* author:	FantasyDragon (https://sketchfab.com/FantasyDragon)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "small bundle of trash" (https://sketchfab.com/3d-models/small-bundle-of-trash-858d9abe95934209a02a5f72f9128628) by FantasyDragon (https://sketchfab.com/FantasyDragon) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
